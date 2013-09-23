@@ -18,6 +18,6 @@ int main() {
 	return 0;	
 }
 ```
-截圖
+#截圖
 ![Alt text](/456.jpg)
 
