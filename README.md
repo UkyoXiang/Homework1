@@ -19,5 +19,5 @@ int main() {
 }
 ```
 截圖
-![Alt text](/photo1.png)
+![Alt text](/456.jpg)
 
