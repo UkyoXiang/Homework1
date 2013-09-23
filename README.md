@@ -19,4 +19,5 @@ int main() {
 }
 ```
 截圖
+![Alt text](/photo1.png)
 
